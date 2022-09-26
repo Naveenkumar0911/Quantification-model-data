@@ -43,5 +43,6 @@ sectors_all.reset_index(inplace=True, drop=True)
 sectors_all.head()
 sectors_all.tail()
 
-sectors_all.to_csv(target)
+sectors_all.to_csv(target,index = False)
+
 

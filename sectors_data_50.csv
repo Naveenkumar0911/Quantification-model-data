@@ -1,0 +1,351 @@
+Dataset_ID,Threat Category,Threat Actor,IT,Healthcare,Finance,Consumer Discretionary,Communication Services,Industrials,Consumer Staples,Energy,Utilities,Real Estate,Materials,Government,SLED,Other Critical
+1,Criminal,Organized Crime,2,5,2,4,2,4,1,2,3,3,1,1,4,2
+1,Criminal,Other Criminals,3,1,5,2,5,3,1,2,3,2,1,5,3,5
+1,Governmental,APTs,4,1,1,1,4,3,2,5,5,2,2,5,3,2
+1,Governmental,Other Governments,1,4,2,1,2,5,4,3,1,2,4,5,2,4
+1,Commercial,Competitors,3,5,2,5,3,2,2,2,3,1,2,3,1,5
+1,Individual,Anarchist Insider,3,2,3,4,2,2,1,3,5,1,3,3,1,5
+1,Individual,Anarchist Outsider,1,5,5,2,5,1,3,5,1,4,5,3,1,2
+2,Criminal,Organized Crime,2,2,4,4,5,1,1,1,4,1,4,2,3,1
+2,Criminal,Other Criminals,1,4,1,4,3,4,3,1,1,4,4,5,2,3
+2,Governmental,APTs,3,2,2,1,3,3,4,5,1,5,1,1,2,3
+2,Governmental,Other Governments,1,5,3,2,4,5,4,2,4,2,2,2,3,3
+2,Commercial,Competitors,1,4,1,4,3,2,1,5,4,2,5,4,2,1
+2,Individual,Anarchist Insider,5,4,3,1,5,3,1,5,3,4,5,4,4,3
+2,Individual,Anarchist Outsider,5,3,4,5,3,3,5,3,5,3,1,2,2,3
+3,Criminal,Organized Crime,4,4,1,4,3,3,1,1,3,4,2,5,4,5
+3,Criminal,Other Criminals,1,2,4,1,5,5,3,1,5,5,2,2,3,2
+3,Governmental,APTs,5,1,1,4,5,4,3,5,1,2,1,1,5,5
+3,Governmental,Other Governments,2,3,4,1,1,3,4,4,2,4,5,2,2,1
+3,Commercial,Competitors,4,4,1,3,5,5,2,5,3,1,1,5,3,5
+3,Individual,Anarchist Insider,1,1,1,2,4,5,2,5,4,1,5,4,5,2
+3,Individual,Anarchist Outsider,1,4,5,4,2,2,1,4,4,3,5,2,1,3
+4,Criminal,Organized Crime,1,4,4,3,3,3,2,2,3,1,3,3,3,2
+4,Criminal,Other Criminals,2,5,3,1,3,4,2,3,2,1,1,1,4,3
+4,Governmental,APTs,1,5,5,5,4,4,4,3,4,2,2,5,3,1
+4,Governmental,Other Governments,2,1,4,2,2,3,4,4,5,3,4,3,5,3
+4,Commercial,Competitors,2,4,4,2,3,1,1,3,5,4,3,2,2,3
+4,Individual,Anarchist Insider,1,1,3,5,3,5,2,5,1,5,5,1,1,4
+4,Individual,Anarchist Outsider,3,3,5,5,3,5,3,3,1,5,3,2,2,2
+5,Criminal,Organized Crime,2,5,3,2,3,5,5,2,1,3,5,3,5,3
+5,Criminal,Other Criminals,1,5,5,2,1,2,1,2,1,1,1,2,5,1
+5,Governmental,APTs,5,3,4,5,2,2,4,4,1,5,1,3,2,4
+5,Governmental,Other Governments,5,1,4,3,1,4,4,1,3,4,1,3,4,2
+5,Commercial,Competitors,5,4,5,2,5,3,2,2,1,5,3,2,2,2
+5,Individual,Anarchist Insider,3,1,5,3,4,3,5,3,2,2,3,1,1,5
+5,Individual,Anarchist Outsider,5,2,5,2,3,5,1,1,5,3,4,1,5,5
+6,Criminal,Organized Crime,1,3,4,5,1,4,1,2,4,2,2,3,5,4
+6,Criminal,Other Criminals,4,3,3,1,4,5,4,1,5,3,1,4,4,4
+6,Governmental,APTs,5,3,1,1,3,2,1,5,1,4,3,3,2,2
+6,Governmental,Other Governments,2,2,4,3,5,3,4,3,3,2,1,1,3,5
+6,Commercial,Competitors,2,4,2,2,4,4,5,3,5,2,3,1,3,1
+6,Individual,Anarchist Insider,3,2,5,4,4,3,1,3,3,4,2,1,5,3
+6,Individual,Anarchist Outsider,5,5,2,4,5,5,2,1,3,3,3,4,5,1
+7,Criminal,Organized Crime,4,2,2,1,3,3,3,5,5,1,1,5,4,4
+7,Criminal,Other Criminals,3,4,4,3,5,5,2,5,3,4,5,5,1,3
+7,Governmental,APTs,5,2,4,4,3,3,1,3,3,2,3,2,1,5
+7,Governmental,Other Governments,3,2,1,5,4,1,1,2,4,5,5,4,2,3
+7,Commercial,Competitors,3,5,4,5,2,1,3,3,5,3,5,2,4,1
+7,Individual,Anarchist Insider,3,2,2,2,2,3,3,4,1,2,1,1,2,1
+7,Individual,Anarchist Outsider,5,4,1,3,4,3,2,2,2,1,5,3,1,2
+8,Criminal,Organized Crime,5,2,4,4,4,5,5,5,3,5,1,2,5,3
+8,Criminal,Other Criminals,5,5,4,4,5,5,4,4,4,5,5,5,4,3
+8,Governmental,APTs,4,4,5,1,3,2,5,2,3,5,3,3,2,2
+8,Governmental,Other Governments,5,5,5,2,1,2,4,2,5,1,2,1,4,5
+8,Commercial,Competitors,5,5,1,1,5,3,2,2,5,4,5,3,4,4
+8,Individual,Anarchist Insider,1,4,2,4,5,5,1,4,3,2,5,1,5,2
+8,Individual,Anarchist Outsider,3,3,1,2,4,4,5,5,5,3,5,3,5,5
+9,Criminal,Organized Crime,2,1,1,1,3,4,1,4,2,5,2,5,2,5
+9,Criminal,Other Criminals,4,1,4,1,1,5,1,5,5,1,1,1,2,5
+9,Governmental,APTs,3,2,2,2,1,3,2,4,3,4,3,1,2,1
+9,Governmental,Other Governments,4,4,3,3,2,5,2,4,5,3,4,3,5,3
+9,Commercial,Competitors,3,3,1,4,4,1,3,1,5,1,1,5,1,3
+9,Individual,Anarchist Insider,5,3,5,3,2,1,5,2,5,2,1,2,4,1
+9,Individual,Anarchist Outsider,3,5,1,4,4,5,5,2,4,4,4,5,4,5
+10,Criminal,Organized Crime,2,5,4,5,5,2,1,1,5,5,1,1,1,4
+10,Criminal,Other Criminals,3,4,4,4,1,4,4,3,3,1,4,4,5,2
+10,Governmental,APTs,2,4,3,2,2,1,5,3,1,2,1,3,3,2
+10,Governmental,Other Governments,3,1,1,4,2,5,3,4,3,3,2,4,2,5
+10,Commercial,Competitors,4,5,4,2,1,3,4,5,1,2,5,4,1,4
+10,Individual,Anarchist Insider,3,4,1,4,4,3,3,1,5,5,5,1,5,4
+10,Individual,Anarchist Outsider,1,5,4,5,4,4,5,5,4,1,4,3,4,4
+11,Criminal,Organized Crime,1,5,1,5,4,4,4,4,2,5,1,3,4,1
+11,Criminal,Other Criminals,2,2,2,2,5,1,5,5,5,4,1,1,1,2
+11,Governmental,APTs,3,1,5,4,3,3,3,1,2,5,1,3,4,1
+11,Governmental,Other Governments,1,4,3,3,5,1,1,3,5,1,4,2,4,1
+11,Commercial,Competitors,5,4,1,3,4,4,1,1,5,4,1,5,5,5
+11,Individual,Anarchist Insider,5,1,1,5,1,5,3,4,5,4,5,5,1,3
+11,Individual,Anarchist Outsider,1,2,3,4,2,2,2,4,4,4,3,1,2,4
+12,Criminal,Organized Crime,2,1,5,3,2,2,4,3,5,1,3,4,2,2
+12,Criminal,Other Criminals,2,2,4,5,4,3,5,1,3,3,1,1,3,3
+12,Governmental,APTs,4,5,5,5,3,1,1,5,3,1,4,5,2,3
+12,Governmental,Other Governments,4,2,5,2,5,5,3,2,1,4,4,2,5,1
+12,Commercial,Competitors,1,5,5,2,4,5,2,4,3,5,5,5,1,2
+12,Individual,Anarchist Insider,3,1,3,1,2,2,4,5,3,5,5,5,5,2
+12,Individual,Anarchist Outsider,2,4,1,5,1,1,2,4,4,3,5,2,5,5
+13,Criminal,Organized Crime,2,1,3,2,5,5,1,1,1,1,4,4,4,5
+13,Criminal,Other Criminals,4,4,3,3,3,3,2,1,4,2,5,1,4,1
+13,Governmental,APTs,3,1,2,5,3,2,5,4,5,5,2,3,1,5
+13,Governmental,Other Governments,2,1,1,4,5,5,5,2,4,3,4,4,1,1
+13,Commercial,Competitors,2,4,5,4,5,3,3,5,5,3,2,3,5,3
+13,Individual,Anarchist Insider,2,2,5,5,5,5,5,5,3,3,4,1,1,1
+13,Individual,Anarchist Outsider,2,4,2,1,3,4,3,1,1,2,5,5,4,5
+14,Criminal,Organized Crime,1,5,2,2,2,2,5,3,5,4,2,1,1,1
+14,Criminal,Other Criminals,4,5,5,1,2,1,1,3,4,4,4,5,5,3
+14,Governmental,APTs,1,3,4,4,4,5,4,1,4,4,3,2,4,3
+14,Governmental,Other Governments,4,4,5,2,5,2,1,5,2,1,4,2,2,1
+14,Commercial,Competitors,5,2,5,5,4,5,5,3,5,4,5,5,1,2
+14,Individual,Anarchist Insider,1,3,4,3,4,4,3,2,2,2,4,2,5,5
+14,Individual,Anarchist Outsider,3,1,2,5,5,1,5,1,5,4,5,2,4,4
+15,Criminal,Organized Crime,1,5,1,4,1,5,2,5,5,1,2,1,1,3
+15,Criminal,Other Criminals,2,2,4,3,1,2,4,3,3,2,2,5,4,1
+15,Governmental,APTs,2,3,3,2,2,5,2,2,1,5,1,2,3,1
+15,Governmental,Other Governments,5,1,5,5,5,3,2,3,1,1,2,2,1,4
+15,Commercial,Competitors,1,3,5,5,3,2,4,2,2,4,1,1,1,1
+15,Individual,Anarchist Insider,2,1,2,1,4,3,5,4,1,3,2,5,1,2
+15,Individual,Anarchist Outsider,5,5,1,5,4,1,1,1,5,3,1,5,4,3
+16,Criminal,Organized Crime,4,4,4,1,3,5,3,2,5,1,3,3,4,1
+16,Criminal,Other Criminals,4,5,3,3,5,5,5,4,3,3,2,5,3,4
+16,Governmental,APTs,1,3,4,4,1,2,1,5,2,4,1,5,4,2
+16,Governmental,Other Governments,2,5,2,5,5,5,2,1,4,5,5,1,1,1
+16,Commercial,Competitors,4,2,1,5,2,2,4,1,4,4,5,4,2,1
+16,Individual,Anarchist Insider,3,1,5,5,3,5,2,1,4,5,2,1,3,4
+16,Individual,Anarchist Outsider,3,5,4,3,5,3,5,3,2,3,3,4,1,2
+17,Criminal,Organized Crime,1,1,3,1,2,4,5,4,3,4,1,3,3,2
+17,Criminal,Other Criminals,5,2,1,2,4,5,2,5,1,1,5,5,5,2
+17,Governmental,APTs,3,4,1,3,4,5,4,3,5,4,4,2,3,1
+17,Governmental,Other Governments,5,1,5,5,1,1,5,2,4,4,1,1,2,1
+17,Commercial,Competitors,2,5,3,2,3,5,1,3,4,1,5,4,2,1
+17,Individual,Anarchist Insider,1,1,5,3,5,2,4,5,5,5,2,3,5,3
+17,Individual,Anarchist Outsider,4,3,4,1,5,2,1,4,1,3,1,4,2,2
+18,Criminal,Organized Crime,1,1,4,5,5,2,4,5,2,5,4,4,4,1
+18,Criminal,Other Criminals,4,5,2,3,1,4,1,3,2,4,4,3,2,1
+18,Governmental,APTs,4,3,3,3,1,2,4,4,4,2,1,4,5,3
+18,Governmental,Other Governments,1,4,1,4,2,4,5,2,5,5,3,5,3,3
+18,Commercial,Competitors,2,3,4,3,4,4,3,2,1,1,3,5,4,3
+18,Individual,Anarchist Insider,1,3,1,5,5,2,1,5,3,3,1,2,5,4
+18,Individual,Anarchist Outsider,2,2,1,5,3,1,5,2,2,2,2,5,1,1
+19,Criminal,Organized Crime,4,2,4,1,2,2,5,3,3,1,1,4,3,5
+19,Criminal,Other Criminals,1,5,3,2,2,4,3,5,5,1,4,5,4,5
+19,Governmental,APTs,3,4,3,5,3,5,2,4,1,2,2,4,4,4
+19,Governmental,Other Governments,3,4,4,1,2,4,4,5,3,4,2,3,2,1
+19,Commercial,Competitors,2,2,3,1,5,3,5,5,5,1,5,4,3,1
+19,Individual,Anarchist Insider,3,1,4,4,2,2,1,3,5,3,3,5,3,1
+19,Individual,Anarchist Outsider,3,5,5,4,3,1,3,2,3,3,5,4,2,1
+20,Criminal,Organized Crime,2,3,5,4,3,4,4,2,4,1,2,3,3,4
+20,Criminal,Other Criminals,2,3,5,1,3,3,5,5,5,2,3,2,1,5
+20,Governmental,APTs,2,1,2,1,5,2,3,1,1,3,5,3,2,4
+20,Governmental,Other Governments,3,4,2,2,2,4,3,5,3,4,2,3,3,5
+20,Commercial,Competitors,2,1,4,2,3,4,2,1,4,2,1,5,5,3
+20,Individual,Anarchist Insider,1,3,5,2,5,4,5,5,5,1,1,1,3,2
+20,Individual,Anarchist Outsider,3,3,3,3,5,4,3,3,2,4,4,2,3,3
+21,Criminal,Organized Crime,1,3,4,1,2,1,3,4,4,1,4,3,3,4
+21,Criminal,Other Criminals,5,2,4,5,1,4,3,3,3,2,3,3,4,5
+21,Governmental,APTs,2,4,4,3,2,4,5,5,1,1,3,3,3,2
+21,Governmental,Other Governments,3,2,3,5,1,2,4,4,1,3,3,1,2,4
+21,Commercial,Competitors,1,2,5,4,2,3,3,3,3,1,1,3,4,3
+21,Individual,Anarchist Insider,3,4,1,3,3,1,4,3,3,1,1,3,5,5
+21,Individual,Anarchist Outsider,2,5,2,1,2,3,2,1,5,4,4,1,4,4
+22,Criminal,Organized Crime,4,3,3,1,5,2,5,2,5,4,1,3,4,1
+22,Criminal,Other Criminals,5,2,2,2,1,1,5,4,3,4,4,5,3,2
+22,Governmental,APTs,2,5,3,2,2,4,2,5,3,4,4,2,2,3
+22,Governmental,Other Governments,2,3,3,2,1,4,4,1,5,1,5,4,1,5
+22,Commercial,Competitors,2,4,3,1,4,5,4,1,5,2,3,4,1,3
+22,Individual,Anarchist Insider,1,4,2,5,4,3,1,2,4,4,4,1,3,5
+22,Individual,Anarchist Outsider,3,4,1,4,1,1,2,4,2,3,5,3,5,2
+23,Criminal,Organized Crime,4,5,5,2,2,4,4,1,4,4,4,5,1,3
+23,Criminal,Other Criminals,1,4,1,1,1,2,1,3,4,3,4,1,3,2
+23,Governmental,APTs,4,4,2,2,5,1,4,3,1,3,1,3,1,1
+23,Governmental,Other Governments,3,2,3,1,4,3,4,2,3,1,5,1,5,4
+23,Commercial,Competitors,3,5,1,1,4,5,1,4,5,5,1,4,2,1
+23,Individual,Anarchist Insider,3,3,3,3,3,1,2,5,5,2,5,1,3,1
+23,Individual,Anarchist Outsider,5,1,3,4,4,5,2,5,3,1,2,1,5,1
+24,Criminal,Organized Crime,5,1,5,3,1,4,2,5,4,3,2,4,1,2
+24,Criminal,Other Criminals,2,3,4,3,3,1,4,3,1,2,5,1,3,1
+24,Governmental,APTs,1,1,5,4,4,4,3,2,1,2,3,5,5,1
+24,Governmental,Other Governments,1,3,5,4,3,3,2,4,4,4,4,4,3,2
+24,Commercial,Competitors,4,5,1,3,1,3,5,5,3,3,3,1,4,4
+24,Individual,Anarchist Insider,3,5,2,2,5,2,3,5,3,3,1,3,1,3
+24,Individual,Anarchist Outsider,4,2,4,3,3,5,2,2,2,1,3,2,1,5
+25,Criminal,Organized Crime,3,3,4,2,3,5,1,4,5,3,4,5,5,2
+25,Criminal,Other Criminals,4,5,1,5,2,5,1,2,5,5,3,4,5,2
+25,Governmental,APTs,4,5,4,1,2,2,3,1,1,5,1,3,3,2
+25,Governmental,Other Governments,1,5,2,2,2,4,4,5,4,1,1,5,1,5
+25,Commercial,Competitors,3,3,5,2,4,5,5,2,4,4,3,4,4,2
+25,Individual,Anarchist Insider,1,5,3,2,2,5,1,2,2,1,5,3,2,5
+25,Individual,Anarchist Outsider,3,3,1,3,2,5,2,5,5,3,2,3,1,3
+26,Criminal,Organized Crime,3,5,4,1,3,2,4,2,3,5,2,5,4,4
+26,Criminal,Other Criminals,1,2,1,3,4,3,1,3,4,3,2,1,5,2
+26,Governmental,APTs,1,3,5,2,2,3,4,3,1,4,2,4,5,2
+26,Governmental,Other Governments,1,4,1,3,5,3,3,5,5,1,4,1,5,3
+26,Commercial,Competitors,5,3,5,5,4,5,5,3,2,3,3,4,1,3
+26,Individual,Anarchist Insider,3,5,2,3,3,5,1,5,1,5,1,1,2,4
+26,Individual,Anarchist Outsider,1,2,1,3,2,5,4,3,2,3,4,4,3,2
+27,Criminal,Organized Crime,3,3,1,3,4,4,2,1,3,3,4,2,4,3
+27,Criminal,Other Criminals,5,1,4,5,5,3,1,3,3,2,2,4,2,2
+27,Governmental,APTs,1,1,5,3,3,4,3,2,3,2,1,5,4,1
+27,Governmental,Other Governments,3,2,3,4,3,5,5,1,1,1,4,1,1,2
+27,Commercial,Competitors,4,2,5,3,4,2,4,5,5,2,3,1,1,1
+27,Individual,Anarchist Insider,5,4,4,2,3,4,4,4,5,5,2,2,3,2
+27,Individual,Anarchist Outsider,2,1,3,3,5,2,5,3,2,2,2,2,5,1
+28,Criminal,Organized Crime,3,5,3,4,5,2,3,3,2,1,2,3,3,2
+28,Criminal,Other Criminals,4,5,2,5,5,4,2,4,2,1,4,4,3,5
+28,Governmental,APTs,5,4,4,1,1,5,3,3,4,4,3,2,4,1
+28,Governmental,Other Governments,4,3,5,2,3,3,2,1,1,4,4,1,2,2
+28,Commercial,Competitors,1,4,5,1,4,2,5,1,4,1,4,2,3,3
+28,Individual,Anarchist Insider,5,3,4,1,1,5,5,1,4,2,3,4,2,4
+28,Individual,Anarchist Outsider,2,1,5,1,4,4,4,3,2,4,2,2,5,2
+29,Criminal,Organized Crime,2,2,1,2,4,2,2,4,5,4,4,5,5,3
+29,Criminal,Other Criminals,3,5,3,5,5,3,2,5,1,5,5,4,3,4
+29,Governmental,APTs,3,3,1,2,3,3,2,1,2,2,4,3,1,3
+29,Governmental,Other Governments,2,1,2,1,3,1,1,4,5,1,2,1,3,1
+29,Commercial,Competitors,2,4,4,2,5,1,5,4,3,4,5,2,3,2
+29,Individual,Anarchist Insider,4,4,3,1,4,4,2,2,3,2,4,4,3,5
+29,Individual,Anarchist Outsider,2,5,4,1,4,2,4,2,1,2,4,4,3,2
+30,Criminal,Organized Crime,4,4,1,1,1,3,3,4,4,1,3,5,1,2
+30,Criminal,Other Criminals,4,2,1,5,1,1,5,2,3,3,5,4,3,3
+30,Governmental,APTs,5,4,2,1,5,5,1,2,1,2,5,3,3,2
+30,Governmental,Other Governments,4,4,3,2,4,1,4,1,3,3,2,4,3,2
+30,Commercial,Competitors,3,2,1,5,2,3,4,1,1,3,2,5,5,4
+30,Individual,Anarchist Insider,4,2,4,3,1,5,3,2,1,3,2,2,3,2
+30,Individual,Anarchist Outsider,5,5,4,4,2,1,1,2,3,5,5,4,4,3
+31,Criminal,Organized Crime,5,3,5,4,2,5,4,3,1,2,4,2,1,4
+31,Criminal,Other Criminals,3,2,4,3,5,1,1,3,3,2,1,4,3,4
+31,Governmental,APTs,4,1,5,1,3,3,1,2,2,5,1,3,4,2
+31,Governmental,Other Governments,5,1,2,5,3,4,4,2,3,2,3,5,5,4
+31,Commercial,Competitors,5,3,5,3,3,4,4,3,5,3,1,3,5,2
+31,Individual,Anarchist Insider,3,2,1,2,5,5,2,2,3,4,4,1,4,4
+31,Individual,Anarchist Outsider,1,1,4,5,5,5,3,4,1,5,4,4,5,4
+32,Criminal,Organized Crime,1,1,5,1,4,3,3,2,3,2,5,3,4,3
+32,Criminal,Other Criminals,3,2,4,1,2,4,2,2,4,2,2,1,1,5
+32,Governmental,APTs,1,1,2,1,1,5,3,2,1,3,2,4,3,1
+32,Governmental,Other Governments,4,3,5,1,5,5,4,2,1,5,3,5,4,1
+32,Commercial,Competitors,2,2,4,3,1,5,2,3,1,2,5,1,4,3
+32,Individual,Anarchist Insider,5,4,1,1,5,4,4,1,3,4,1,4,1,5
+32,Individual,Anarchist Outsider,5,5,3,2,2,2,5,1,3,4,3,4,3,5
+33,Criminal,Organized Crime,1,2,4,4,2,2,4,1,4,5,3,1,4,4
+33,Criminal,Other Criminals,4,5,5,4,4,4,1,2,4,3,4,1,3,2
+33,Governmental,APTs,4,1,2,1,4,1,1,3,1,1,3,5,4,3
+33,Governmental,Other Governments,2,2,2,3,4,5,1,4,2,5,1,4,1,5
+33,Commercial,Competitors,4,2,2,4,1,1,2,4,3,5,3,1,5,2
+33,Individual,Anarchist Insider,5,5,1,5,5,5,3,2,4,5,1,4,5,3
+33,Individual,Anarchist Outsider,1,5,2,2,5,4,2,4,5,2,4,4,1,4
+34,Criminal,Organized Crime,4,5,3,1,2,5,3,4,5,1,2,2,1,2
+34,Criminal,Other Criminals,3,5,2,4,3,1,1,1,3,2,4,2,1,5
+34,Governmental,APTs,5,2,2,5,1,4,1,1,3,3,2,3,2,3
+34,Governmental,Other Governments,1,4,2,1,2,2,5,3,4,2,1,2,5,4
+34,Commercial,Competitors,2,4,1,1,1,1,1,2,3,1,3,5,4,3
+34,Individual,Anarchist Insider,3,5,3,3,5,3,3,2,1,3,5,5,3,3
+34,Individual,Anarchist Outsider,3,3,4,2,2,4,5,2,1,2,3,1,5,4
+35,Criminal,Organized Crime,3,2,4,5,1,3,4,2,2,2,3,5,3,5
+35,Criminal,Other Criminals,2,4,2,3,2,2,5,3,5,5,3,4,1,3
+35,Governmental,APTs,1,2,2,4,3,3,5,3,1,1,2,1,5,5
+35,Governmental,Other Governments,3,2,5,4,3,1,2,1,2,1,1,2,3,1
+35,Commercial,Competitors,1,3,2,1,5,5,5,2,2,5,1,4,2,5
+35,Individual,Anarchist Insider,5,5,5,3,2,5,5,3,3,5,2,4,3,3
+35,Individual,Anarchist Outsider,2,2,3,2,1,5,3,4,1,4,5,5,3,4
+36,Criminal,Organized Crime,5,3,4,3,2,3,3,3,5,5,3,5,3,3
+36,Criminal,Other Criminals,1,5,1,5,5,2,2,3,2,3,1,1,2,2
+36,Governmental,APTs,4,5,5,5,5,3,1,2,5,3,2,5,4,3
+36,Governmental,Other Governments,3,4,4,1,1,3,2,1,3,5,1,3,1,2
+36,Commercial,Competitors,2,5,2,2,3,1,5,2,3,1,3,3,1,3
+36,Individual,Anarchist Insider,2,1,4,1,5,1,1,3,3,2,3,3,4,1
+36,Individual,Anarchist Outsider,3,5,1,5,1,5,3,1,5,5,5,1,2,2
+37,Criminal,Organized Crime,1,3,2,2,4,4,5,1,4,2,3,4,4,2
+37,Criminal,Other Criminals,3,3,3,2,2,5,4,5,1,4,2,1,2,4
+37,Governmental,APTs,4,3,1,2,3,2,4,5,3,2,5,1,4,1
+37,Governmental,Other Governments,2,4,2,5,2,1,4,3,5,4,1,3,1,1
+37,Commercial,Competitors,2,2,4,2,1,1,5,4,3,2,4,2,5,2
+37,Individual,Anarchist Insider,4,1,4,5,4,1,2,2,4,1,4,2,1,3
+37,Individual,Anarchist Outsider,3,3,2,5,5,5,3,5,1,2,2,1,5,2
+38,Criminal,Organized Crime,2,2,1,2,4,1,4,5,3,5,1,1,4,1
+38,Criminal,Other Criminals,1,4,5,5,2,2,1,5,4,5,1,5,5,2
+38,Governmental,APTs,3,2,2,3,2,5,3,3,3,5,4,4,5,5
+38,Governmental,Other Governments,2,5,2,2,4,5,1,5,1,2,2,5,2,3
+38,Commercial,Competitors,1,1,5,4,5,1,3,4,5,1,5,1,2,1
+38,Individual,Anarchist Insider,5,1,5,1,2,3,5,2,5,2,4,1,4,2
+38,Individual,Anarchist Outsider,3,4,2,4,1,4,4,4,1,5,5,1,3,2
+39,Criminal,Organized Crime,4,3,1,4,4,1,4,1,3,2,3,4,3,3
+39,Criminal,Other Criminals,3,1,5,5,5,5,5,5,4,5,1,1,1,5
+39,Governmental,APTs,2,5,1,2,3,4,1,3,2,4,5,2,3,5
+39,Governmental,Other Governments,1,4,2,2,4,3,5,1,1,4,2,4,2,1
+39,Commercial,Competitors,3,3,3,3,4,1,2,3,4,4,2,2,5,4
+39,Individual,Anarchist Insider,2,1,5,3,4,3,2,4,2,4,4,1,3,2
+39,Individual,Anarchist Outsider,1,2,1,2,4,3,2,4,2,2,1,1,5,1
+40,Criminal,Organized Crime,5,5,3,3,4,1,5,1,3,4,1,5,2,2
+40,Criminal,Other Criminals,1,2,5,5,1,4,1,3,3,4,3,5,5,3
+40,Governmental,APTs,4,1,4,1,3,3,1,5,1,1,5,5,4,4
+40,Governmental,Other Governments,4,3,1,2,1,5,4,1,2,5,3,1,5,3
+40,Commercial,Competitors,2,3,3,3,1,4,3,1,3,4,1,4,1,3
+40,Individual,Anarchist Insider,2,2,3,2,5,2,1,3,1,2,3,5,4,3
+40,Individual,Anarchist Outsider,1,3,5,2,1,5,3,4,1,4,1,5,5,4
+41,Criminal,Organized Crime,4,1,4,1,3,3,3,1,1,5,4,1,4,5
+41,Criminal,Other Criminals,4,5,5,5,3,5,1,4,5,5,2,1,4,1
+41,Governmental,APTs,5,4,4,5,4,1,5,1,3,3,2,2,1,5
+41,Governmental,Other Governments,4,3,2,5,5,2,4,1,4,3,5,1,3,2
+41,Commercial,Competitors,1,5,2,2,1,2,4,4,3,2,1,3,5,5
+41,Individual,Anarchist Insider,4,4,2,1,2,5,1,1,3,2,1,2,3,1
+41,Individual,Anarchist Outsider,2,4,5,2,5,5,5,5,5,3,3,3,4,1
+42,Criminal,Organized Crime,4,2,4,2,5,3,1,5,3,3,1,3,2,5
+42,Criminal,Other Criminals,1,5,3,2,4,5,3,4,1,5,2,3,5,3
+42,Governmental,APTs,3,1,1,5,1,5,2,3,1,4,2,1,1,1
+42,Governmental,Other Governments,1,4,2,5,2,4,3,4,2,1,5,5,4,2
+42,Commercial,Competitors,4,5,1,1,1,2,2,4,2,5,1,2,5,2
+42,Individual,Anarchist Insider,5,4,1,4,1,5,1,1,4,4,3,5,1,3
+42,Individual,Anarchist Outsider,3,3,4,3,2,1,4,3,4,5,3,5,3,3
+43,Criminal,Organized Crime,1,5,3,3,1,5,3,3,1,1,3,2,2,5
+43,Criminal,Other Criminals,2,5,1,4,2,5,5,5,4,1,1,3,3,4
+43,Governmental,APTs,5,2,2,5,2,3,3,5,4,5,4,4,5,3
+43,Governmental,Other Governments,3,2,4,1,4,1,3,5,4,4,4,1,5,2
+43,Commercial,Competitors,4,5,3,4,1,3,3,2,1,3,5,3,5,2
+43,Individual,Anarchist Insider,4,2,5,1,5,1,5,2,1,1,3,2,3,1
+43,Individual,Anarchist Outsider,1,4,3,2,4,3,3,1,3,1,1,2,5,4
+44,Criminal,Organized Crime,4,5,4,3,5,5,4,5,2,5,3,3,5,3
+44,Criminal,Other Criminals,4,3,1,5,1,3,5,3,1,2,4,4,5,2
+44,Governmental,APTs,2,4,5,2,1,2,2,2,4,3,4,5,2,1
+44,Governmental,Other Governments,5,1,2,3,3,5,4,4,2,2,3,1,3,5
+44,Commercial,Competitors,1,1,2,5,1,1,5,2,2,5,4,3,4,2
+44,Individual,Anarchist Insider,3,4,5,1,3,1,5,1,1,4,3,5,5,5
+44,Individual,Anarchist Outsider,3,4,3,5,1,2,1,4,3,1,3,4,2,2
+45,Criminal,Organized Crime,1,2,3,3,1,5,5,4,2,5,4,3,2,3
+45,Criminal,Other Criminals,4,5,1,4,4,4,2,1,2,4,3,5,1,5
+45,Governmental,APTs,3,2,2,1,3,5,1,4,1,1,1,2,1,2
+45,Governmental,Other Governments,2,3,2,2,5,4,4,1,1,1,5,1,1,4
+45,Commercial,Competitors,2,2,5,4,4,4,5,3,2,5,2,5,3,1
+45,Individual,Anarchist Insider,3,2,3,2,3,5,1,2,5,1,4,5,3,4
+45,Individual,Anarchist Outsider,3,5,2,4,2,2,2,2,4,2,3,3,5,2
+46,Criminal,Organized Crime,4,2,2,4,3,4,5,2,3,4,2,1,3,5
+46,Criminal,Other Criminals,1,1,5,4,4,2,4,3,1,2,1,2,5,5
+46,Governmental,APTs,4,5,2,2,1,5,1,4,1,3,2,1,1,4
+46,Governmental,Other Governments,2,3,1,4,3,4,3,1,2,1,3,2,3,1
+46,Commercial,Competitors,5,2,1,4,5,5,5,5,5,3,3,2,2,1
+46,Individual,Anarchist Insider,3,2,1,4,4,2,5,5,5,2,2,3,1,1
+46,Individual,Anarchist Outsider,3,4,5,2,3,5,2,4,2,4,3,2,5,3
+47,Criminal,Organized Crime,4,5,3,4,2,3,2,4,4,4,4,5,4,4
+47,Criminal,Other Criminals,2,1,2,3,1,1,5,4,1,4,1,5,4,1
+47,Governmental,APTs,5,4,2,4,1,2,5,2,4,3,2,5,4,3
+47,Governmental,Other Governments,3,1,1,4,4,1,4,5,3,4,1,2,2,2
+47,Commercial,Competitors,5,4,4,2,4,4,3,2,1,5,3,2,1,4
+47,Individual,Anarchist Insider,5,3,5,2,5,5,3,2,3,5,5,1,4,1
+47,Individual,Anarchist Outsider,4,3,1,1,1,1,1,4,3,2,3,3,4,4
+48,Criminal,Organized Crime,1,4,4,4,2,5,1,3,5,5,2,5,3,3
+48,Criminal,Other Criminals,3,5,1,2,3,3,3,5,2,2,4,4,3,4
+48,Governmental,APTs,3,1,3,5,5,5,5,1,3,2,5,3,1,5
+48,Governmental,Other Governments,1,5,2,5,1,1,5,1,2,3,1,3,3,4
+48,Commercial,Competitors,4,3,1,3,4,3,5,1,3,1,5,2,4,1
+48,Individual,Anarchist Insider,4,4,1,3,4,3,5,2,1,3,5,2,3,1
+48,Individual,Anarchist Outsider,3,5,5,3,4,5,5,3,1,4,3,3,1,5
+49,Criminal,Organized Crime,1,4,2,4,4,5,2,5,3,4,5,4,1,1
+49,Criminal,Other Criminals,4,2,2,4,4,4,2,5,1,5,4,4,2,4
+49,Governmental,APTs,5,5,4,1,4,3,1,4,1,5,3,4,1,5
+49,Governmental,Other Governments,5,3,5,3,2,2,5,1,5,2,4,5,3,4
+49,Commercial,Competitors,4,3,3,1,2,4,1,5,5,3,4,5,1,4
+49,Individual,Anarchist Insider,5,4,2,2,4,5,4,5,4,3,5,3,3,5
+49,Individual,Anarchist Outsider,2,4,2,5,3,1,3,5,2,1,2,4,2,1
+50,Criminal,Organized Crime,3,4,3,4,3,2,2,4,3,2,4,5,5,5
+50,Criminal,Other Criminals,5,4,5,1,5,5,1,1,1,4,3,3,4,4
+50,Governmental,APTs,5,5,2,3,3,2,2,4,3,2,5,5,4,2
+50,Governmental,Other Governments,3,2,5,3,3,1,3,1,5,3,5,4,2,4
+50,Commercial,Competitors,1,3,4,2,2,2,5,4,2,1,2,1,3,1
+50,Individual,Anarchist Insider,1,2,1,4,4,2,4,5,5,5,5,3,3,4
+50,Individual,Anarchist Outsider,4,5,1,2,1,3,1,2,4,3,5,5,2,2

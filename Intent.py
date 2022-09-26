@@ -5,7 +5,7 @@ import csv
 
 target = "intent_datasets.csv"
 
-
+    
 intent_all = pd.DataFrame()
 for i in range(1, 51):
 
@@ -42,4 +42,4 @@ intent_all.reset_index(inplace=True, drop=True)
 intent_all.head()
 intent_all.tail()
 
-intent_all.to_csv(target)
+intent_all.to_csv(target, index = False)
