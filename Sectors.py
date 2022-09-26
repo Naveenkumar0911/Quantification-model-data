@@ -1,10 +1,9 @@
 import pandas as pd
 import numpy as np
-import csv
 
 
 
-target = "sectors_datasets.csv"
+target = "sectors_data_50.csv"
 
 sectors_all = pd.DataFrame()
 
