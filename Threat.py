@@ -2,8 +2,8 @@ import numpy as np
 import pandas as pd
 
 
-output_target = "threat_output_datasets.csv"
-input_target = "threat_input_datasets.csv"
+output_target = "threat_output_data_50.csv"
+input_target = "threat_input_data_50.csv"
 
 input_threat_all = pd.DataFrame()
 threat_all = pd.DataFrame()
