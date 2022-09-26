@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
-import csv
 
 
-target = "intent_datasets.csv"
+
+target = "intent_data_50.csv"
 
     
 intent_all = pd.DataFrame()
