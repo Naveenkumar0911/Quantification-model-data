@@ -1,0 +1,651 @@
+,Datapoint,CR_Categories,cr_remediationcost_total,cr_Likelihood,cr_Severity
+0,Datapoint0,Compliance Failure,7034200.145,6.39261839,3.2
+1,Datapoint0,Insider Breach,3951737.429,4.929404227,3.2
+2,Datapoint0,IP Loss,6141404.81,6.268895411,2.4
+3,Datapoint0,Insightful Data Loss,6248407.26,6.119577357,3.6
+4,Datapoint0,Large-scale Architecture Weakness,5835402.014,6.056765011,2.7
+5,Datapoint0,Major Product Flaw,6421827.232,5.475590498,1.8
+6,Datapoint0,Privacy Disclosure,5403292.767,6.455889046,2.4
+7,Datapoint0,Questionable Associations,5478746.858,4.783002791,2.4
+8,Datapoint0,Extortion (ransom),5400674.477,6.455889046,2.7
+9,Datapoint0,Resiliency Loss,6637610.915,6.39261839,3.6
+10,Datapoint0,Supply Chain Compromise,5137972.654,6.387163422,1.8
+11,Datapoint0,Trophy Penetration,3023115.227,5.181637993,3.2
+12,Datapoint0,Health/Safety Compromise,4644920.294,5.662584133,2.4
+13,Datapoint1,Compliance Failure,8842772.477,6.227209503,4
+14,Datapoint1,Insider Breach,7764446.73,5.778668596,2.8
+15,Datapoint1,IP Loss,5850684.76,4.765087992,2.7
+16,Datapoint1,Insightful Data Loss,6727495.856,4.670407127,3
+17,Datapoint1,Large-scale Architecture Weakness,5285452.754,5.97036133,3.6
+18,Datapoint1,Major Product Flaw,3351626.662,3.800361854,2.7
+19,Datapoint1,Privacy Disclosure,6861794.907,5.353485178,3
+20,Datapoint1,Questionable Associations,8253002.14,6.352441745,4
+21,Datapoint1,Extortion (ransom),6286627.599,6.177078365,2.8
+22,Datapoint1,Resiliency Loss,4342515.361,6.127028469,3.6
+23,Datapoint1,Supply Chain Compromise,5447630.94,5.432843953,2.7
+24,Datapoint1,Trophy Penetration,8153214.43,6.202608847,3.6
+25,Datapoint1,Health/Safety Compromise,6245320.093,6.027245468,3.6
+26,Datapoint2,Compliance Failure,5268419.804,5.941979069,3.2
+27,Datapoint2,Insider Breach,4869590.775,4.769439833,3.2
+28,Datapoint2,IP Loss,7001815.272,5.941979069,3.2
+29,Datapoint2,Insightful Data Loss,5033572.041,4.944608554,2.8
+30,Datapoint2,Large-scale Architecture Weakness,5425618.219,4.587084367,2.4
+31,Datapoint2,Major Product Flaw,5138595.257,4.251948878,2.1
+32,Datapoint2,Privacy Disclosure,5602441.99,5.647414966,3.2
+33,Datapoint2,Questionable Associations,6856390.993,6.114523902,3.2
+34,Datapoint2,Extortion (ransom),5715984.854,5.623505074,3.2
+35,Datapoint2,Resiliency Loss,7049915.969,5.669265171,3.2
+36,Datapoint2,Supply Chain Compromise,5250444.185,5.641638095,3.2
+37,Datapoint2,Trophy Penetration,4160781.525,3.979129429,2.4
+38,Datapoint2,Health/Safety Compromise,7276118.564,5.624708098,3.2
+39,Datapoint3,Compliance Failure,4996808.287,4.817394558,2.7
+40,Datapoint3,Insider Breach,8806701.102,6.057453344,3.2
+41,Datapoint3,IP Loss,7933844.078,5.345869471,3.6
+42,Datapoint3,Insightful Data Loss,6566493.813,6.22163866,3.6
+43,Datapoint3,Large-scale Architecture Weakness,5624307.115,6.026638177,3.2
+44,Datapoint3,Major Product Flaw,5952589.863,5.903370405,2.7
+45,Datapoint3,Privacy Disclosure,5858830.065,6.067555721,2.8
+46,Datapoint3,Questionable Associations,6342084.73,6.285461977,3.6
+47,Datapoint3,Extortion (ransom),7560031.779,5.64566782,3.6
+48,Datapoint3,Resiliency Loss,5193417.231,4.666228995,2.4
+49,Datapoint3,Supply Chain Compromise,6642402.868,5.255424202,2.7
+50,Datapoint3,Trophy Penetration,4299232.447,6.147779249,1.8
+51,Datapoint3,Health/Safety Compromise,7966628.649,6.259007428,3.2
+52,Datapoint4,Compliance Failure,7775412.199,5.184094175,4
+53,Datapoint4,Insider Breach,6095157.187,5.772143574,3
+54,Datapoint4,IP Loss,6268057.623,5.774783259,4
+55,Datapoint4,Insightful Data Loss,6776419.871,5.200902407,2
+56,Datapoint4,Large-scale Architecture Weakness,6166099.607,5.170521893,3
+57,Datapoint4,Major Product Flaw,7584922.074,5.516474654,3
+58,Datapoint4,Privacy Disclosure,5174119.421,5.488733825,4
+59,Datapoint4,Questionable Associations,8165621.416,5.622696577,4
+60,Datapoint4,Extortion (ransom),5785794.849,4.453701618,3
+61,Datapoint4,Resiliency Loss,7946879.213,5.772143574,4
+62,Datapoint4,Supply Chain Compromise,5716797.858,5.352989089,2.4
+63,Datapoint4,Trophy Penetration,6537378.696,5.503334073,4
+64,Datapoint4,Health/Safety Compromise,6610538.495,5.352989089,3
+65,Datapoint5,Compliance Failure,3915214.959,5.054085998,3.6
+66,Datapoint5,Insider Breach,4864587.653,6.150104893,3.6
+67,Datapoint5,IP Loss,3873569.025,4.638630002,2
+68,Datapoint5,Insightful Data Loss,7148828.365,5.895427989,3.6
+69,Datapoint5,Large-scale Architecture Weakness,5512001.097,4.556937326,2.4
+70,Datapoint5,Major Product Flaw,4547263.975,6.148010237,2.8
+71,Datapoint5,Privacy Disclosure,5494487.201,4.990670665,3.2
+72,Datapoint5,Questionable Associations,5569742.818,4.990670665,3.2
+73,Datapoint5,Extortion (ransom),7282854.742,5.964839866,2.4
+74,Datapoint5,Resiliency Loss,5312644.599,5.536329654,3.2
+75,Datapoint5,Supply Chain Compromise,6811895.101,5.710162963,2.8
+76,Datapoint5,Trophy Penetration,6047785.967,4.61257867,2.7
+77,Datapoint5,Health/Safety Compromise,6861864.414,5.353159284,3.2
+78,Datapoint6,Compliance Failure,5030286.496,4.703936566,2.4
+79,Datapoint6,Insider Breach,4398500.025,3.715774194,1.8
+80,Datapoint6,IP Loss,9386131.663,5.39381037,3.6
+81,Datapoint6,Insightful Data Loss,8086878.511,5.185174458,3.2
+82,Datapoint6,Large-scale Architecture Weakness,5033965.168,4.497623525,2.7
+83,Datapoint6,Major Product Flaw,5378874.981,4.923714879,2.8
+84,Datapoint6,Privacy Disclosure,5342587.4,5.19782444,3.6
+85,Datapoint6,Questionable Associations,6455613.194,4.474221705,2.4
+86,Datapoint6,Extortion (ransom),6248995.654,4.90487619,3.2
+87,Datapoint6,Resiliency Loss,7108478.146,4.735986929,2.8
+88,Datapoint6,Supply Chain Compromise,6354732.393,5.297674583,3.2
+89,Datapoint6,Trophy Penetration,4837168.349,4.286493756,2.4
+90,Datapoint6,Health/Safety Compromise,7586617.428,5.071037941,2.8
+91,Datapoint7,Compliance Failure,5350735.116,4.725520655,3
+92,Datapoint7,Insider Breach,6577688.922,6.415716201,4
+93,Datapoint7,IP Loss,8026816.135,6.415716201,3.6
+94,Datapoint7,Insightful Data Loss,8162058.801,6.300261307,3.2
+95,Datapoint7,Large-scale Architecture Weakness,6357183.138,6.02477551,2.7
+96,Datapoint7,Major Product Flaw,5288866.617,5.51977957,3.6
+97,Datapoint7,Privacy Disclosure,3795589.438,3.159559647,1.8
+98,Datapoint7,Questionable Associations,4056018.469,4.498158009,2.4
+99,Datapoint7,Extortion (ransom),6527640.993,5.889510553,3.6
+100,Datapoint7,Resiliency Loss,6714630.426,4.73933947,2.7
+101,Datapoint7,Supply Chain Compromise,8117454.137,6.319119294,3.6
+102,Datapoint7,Trophy Penetration,4337361.532,5.524860379,2.7
+103,Datapoint7,Health/Safety Compromise,6933102.225,6.300694207,3.2
+104,Datapoint8,Compliance Failure,5450663.931,4.660633568,2.7
+105,Datapoint8,Insider Breach,6133874.677,6.008174246,4
+106,Datapoint8,IP Loss,6896590.692,6.008174246,4
+107,Datapoint8,Insightful Data Loss,6831059.523,5.403663412,2
+108,Datapoint8,Large-scale Architecture Weakness,6772913.15,6.225910085,4
+109,Datapoint8,Major Product Flaw,8070993.082,6.041165699,4
+110,Datapoint8,Privacy Disclosure,9510773.764,6.220041226,4
+111,Datapoint8,Questionable Associations,7308036.317,5.265566582,3
+112,Datapoint8,Extortion (ransom),8376383.139,6.220041226,4
+113,Datapoint8,Resiliency Loss,5916453.272,5.444836156,3
+114,Datapoint8,Supply Chain Compromise,8180162.786,6.047034557,2
+115,Datapoint8,Trophy Penetration,8510838.104,6.210661795,4
+116,Datapoint8,Health/Safety Compromise,7536881.953,6.198929801,4
+117,Datapoint9,Compliance Failure,4258322.744,4.848107203,2.7
+118,Datapoint9,Insider Breach,5463009.63,5.280672431,3.6
+119,Datapoint9,IP Loss,5503143.263,5.433587168,3
+120,Datapoint9,Insightful Data Loss,4884195.924,5.678843011,4
+121,Datapoint9,Large-scale Architecture Weakness,7357063.203,5.430138602,3.6
+122,Datapoint9,Major Product Flaw,4857223.39,4.833520934,3
+123,Datapoint9,Privacy Disclosure,6450056.648,5.547031826,2.4
+124,Datapoint9,Questionable Associations,6490526.187,5.469922078,2.4
+125,Datapoint9,Extortion (ransom),3396453.246,4.113177483,2
+126,Datapoint9,Resiliency Loss,4024994.1,4.672398268,2
+127,Datapoint9,Supply Chain Compromise,4158285.791,4.174048765,3
+128,Datapoint9,Trophy Penetration,5055822.832,5.678843011,4
+129,Datapoint9,Health/Safety Compromise,7138920.578,5.50724835,3.6
+130,Datapoint10,Compliance Failure,5611935.766,6.225050175,2.4
+131,Datapoint10,Insider Breach,4475172.581,6.414273092,3
+132,Datapoint10,IP Loss,5907250.62,6.391120181,3
+133,Datapoint10,Insightful Data Loss,4929687.695,4.935684436,2.4
+134,Datapoint10,Large-scale Architecture Weakness,4360169.327,5.472242526,1.8
+135,Datapoint10,Major Product Flaw,5174004.91,4.945708983,2.7
+136,Datapoint10,Privacy Disclosure,6431598.147,6.198988392,4
+137,Datapoint10,Questionable Associations,6924389.113,6.201897264,3
+138,Datapoint10,Extortion (ransom),7095650.232,6.004810601,2.7
+139,Datapoint10,Resiliency Loss,5508267.468,6.216039213,4
+140,Datapoint10,Supply Chain Compromise,4836466.398,5.458876463,2
+141,Datapoint10,Trophy Penetration,6404060.703,5.615773072,4
+142,Datapoint10,Health/Safety Compromise,5934866.356,6.391120181,3
+143,Datapoint11,Compliance Failure,4328339.052,4.719353047,3.6
+144,Datapoint11,Insider Breach,5886320.276,4.706295317,1.8
+145,Datapoint11,IP Loss,4335409.404,4.034885503,2.1
+146,Datapoint11,Insightful Data Loss,5565473.809,5.222072732,2.7
+147,Datapoint11,Large-scale Architecture Weakness,5850634.662,5.35921147,3.6
+148,Datapoint11,Major Product Flaw,7326717.551,5.562759019,4
+149,Datapoint11,Privacy Disclosure,7650178.494,4.864727627,4
+150,Datapoint11,Questionable Associations,5424665.8,5.011053803,3.2
+151,Datapoint11,Extortion (ransom),7277812.239,4.707164053,3.2
+152,Datapoint11,Resiliency Loss,5645563.285,4.40375231,3.6
+153,Datapoint11,Supply Chain Compromise,6846825.692,4.460779893,2.8
+154,Datapoint11,Trophy Penetration,4821697.742,4.631669622,3.6
+155,Datapoint11,Health/Safety Compromise,7542438.56,4.864938659,3.2
+156,Datapoint12,Compliance Failure,5741901.28,6.348072251,2.4
+157,Datapoint12,Insider Breach,7384001.184,6.438456965,3.2
+158,Datapoint12,IP Loss,6035202.122,5.566588426,4
+159,Datapoint12,Insightful Data Loss,7242211.615,6.359212036,4
+160,Datapoint12,Large-scale Architecture Weakness,7329578.59,6.315162209,4
+161,Datapoint12,Major Product Flaw,6196684.123,6.438456965,2.4
+162,Datapoint12,Privacy Disclosure,5654741.401,6.093948653,2.4
+163,Datapoint12,Questionable Associations,7527980.332,6.34151403,4
+164,Datapoint12,Extortion (ransom),6807925.778,5.90579528,3.2
+165,Datapoint12,Resiliency Loss,4235913.478,4.592338895,1.6
+166,Datapoint12,Supply Chain Compromise,6195693.873,4.806965318,3
+167,Datapoint12,Trophy Penetration,5606667.473,5.31902305,2
+168,Datapoint12,Health/Safety Compromise,6043648.427,6.348072251,3
+169,Datapoint13,Compliance Failure,8710089.322,6.411573076,3.2
+170,Datapoint13,Insider Breach,6653303.663,6.39588094,3.2
+171,Datapoint13,IP Loss,5448901.327,6.395152354,4
+172,Datapoint13,Insightful Data Loss,5670853.677,6.428738778,3.2
+173,Datapoint13,Large-scale Architecture Weakness,6976197.714,6.386929705,4
+174,Datapoint13,Major Product Flaw,5295588.391,6.400222649,4
+175,Datapoint13,Privacy Disclosure,5001557.176,5.584709989,4
+176,Datapoint13,Questionable Associations,4924117.087,6.380216336,4
+177,Datapoint13,Extortion (ransom),5677231.18,5.622609746,3.2
+178,Datapoint13,Resiliency Loss,7095178.03,5.589729156,4
+179,Datapoint13,Supply Chain Compromise,5923155.247,4.983186005,3
+180,Datapoint13,Trophy Penetration,6854846.109,6.404880853,3.2
+181,Datapoint13,Health/Safety Compromise,4826444.66,5.591423358,2
+182,Datapoint14,Compliance Failure,5216075.346,6.234337662,4
+183,Datapoint14,Insider Breach,5953493.308,5.190651353,3.6
+184,Datapoint14,IP Loss,5857867.854,5.249107807,3
+185,Datapoint14,Insightful Data Loss,7689857.537,6.012132534,2.1
+186,Datapoint14,Large-scale Architecture Weakness,7941653.186,6.232052905,3
+187,Datapoint14,Major Product Flaw,6583345.645,5.919484871,2.8
+188,Datapoint14,Privacy Disclosure,6050104.143,5.209877155,3
+189,Datapoint14,Questionable Associations,3898142.727,6.363680784,3.2
+190,Datapoint14,Extortion (ransom),7095183.696,6.270319522,3.6
+191,Datapoint14,Resiliency Loss,6054671.892,5.289895606,2.8
+192,Datapoint14,Supply Chain Compromise,5850794.459,5.288728063,2.8
+193,Datapoint14,Trophy Penetration,7779630.608,6.273315193,4
+194,Datapoint14,Health/Safety Compromise,4910677.589,5.523156103,2.8
+195,Datapoint15,Compliance Failure,8224205.429,6.289638059,4
+196,Datapoint15,Insider Breach,8580978.201,6.279619506,4
+197,Datapoint15,IP Loss,5214044.32,6.067664692,2.7
+198,Datapoint15,Insightful Data Loss,5890393.861,5.454880912,4
+199,Datapoint15,Large-scale Architecture Weakness,5674467.771,6.279619506,3.6
+200,Datapoint15,Major Product Flaw,7592241.522,5.690708869,4
+201,Datapoint15,Privacy Disclosure,6527477.124,5.29830836,3.6
+202,Datapoint15,Questionable Associations,4911823.068,5.807971517,3.6
+203,Datapoint15,Extortion (ransom),5807291.983,5.372580177,3
+204,Datapoint15,Resiliency Loss,7617892.948,6.27498825,3.6
+205,Datapoint15,Supply Chain Compromise,6882745.796,5.714492302,4
+206,Datapoint15,Trophy Penetration,5551543.725,5.922380424,3.6
+207,Datapoint15,Health/Safety Compromise,7950044.24,6.279619506,4
+208,Datapoint16,Compliance Failure,8546935.13,6.372330484,3.2
+209,Datapoint16,Insider Breach,7624651.888,6.040416051,2.4
+210,Datapoint16,IP Loss,4220937.023,5.304629995,2.8
+211,Datapoint16,Insightful Data Loss,6781956.696,5.567997151,2.4
+212,Datapoint16,Large-scale Architecture Weakness,5166444.253,6.037461753,3.2
+213,Datapoint16,Major Product Flaw,8605368.348,6.372330484,3.2
+214,Datapoint16,Privacy Disclosure,6707118.428,6.102752233,3.2
+215,Datapoint16,Questionable Associations,5493501.36,5.469870595,1.8
+216,Datapoint16,Extortion (ransom),6554508.745,5.2984189,2.4
+217,Datapoint16,Resiliency Loss,7080936.885,6.372330484,3.2
+218,Datapoint16,Supply Chain Compromise,7398787.39,5.975125571,2.4
+219,Datapoint16,Trophy Penetration,6695188.999,5.251666763,1.8
+220,Datapoint16,Health/Safety Compromise,8297651.715,6.040416051,2.8
+221,Datapoint17,Compliance Failure,4263990.283,4.543715894,2
+222,Datapoint17,Insider Breach,4043762.543,4.543715894,2
+223,Datapoint17,IP Loss,5783549.023,4.963770852,2.1
+224,Datapoint17,Insightful Data Loss,7103554.126,6.085088435,3
+225,Datapoint17,Large-scale Architecture Weakness,5422042.591,5.466153846,2
+226,Datapoint17,Major Product Flaw,5376333.168,5.102978783,3
+227,Datapoint17,Privacy Disclosure,4868865.83,6.016518164,2
+228,Datapoint17,Questionable Associations,5051533.388,5.11559758,4
+229,Datapoint17,Extortion (ransom),3113994.707,4.661198289,3
+230,Datapoint17,Resiliency Loss,6834172.141,6.340446827,4
+231,Datapoint17,Supply Chain Compromise,4930648.22,6.196493922,3
+232,Datapoint17,Trophy Penetration,8544498.957,6.160471069,4
+233,Datapoint17,Health/Safety Compromise,6485654.21,5.676709627,2.1
+234,Datapoint18,Compliance Failure,7038383.182,6.01646237,2
+235,Datapoint18,Insider Breach,7088442.772,6.257999373,4
+236,Datapoint18,IP Loss,3901434.995,5.038225874,2.4
+237,Datapoint18,Insightful Data Loss,5108259.161,5.970905553,3.2
+238,Datapoint18,Large-scale Architecture Weakness,4613305.341,5.837038549,4
+239,Datapoint18,Major Product Flaw,6952727.226,5.603328848,3.2
+240,Datapoint18,Privacy Disclosure,7661035.969,6.01646237,2.4
+241,Datapoint18,Questionable Associations,7027913.817,6.01646237,3.2
+242,Datapoint18,Extortion (ransom),4536861.193,5.837038549,4
+243,Datapoint18,Resiliency Loss,8782635.713,6.21387877,3
+244,Datapoint18,Supply Chain Compromise,6528785.801,5.658160486,3
+245,Datapoint18,Trophy Penetration,5504114.291,6.257999373,4
+246,Datapoint18,Health/Safety Compromise,4053545.251,5.292797491,4
+247,Datapoint19,Compliance Failure,5856846.962,6.230706849,4
+248,Datapoint19,Insider Breach,7380897.163,6.318536013,1.8
+249,Datapoint19,IP Loss,5638387.202,6.228044593,4
+250,Datapoint19,Insightful Data Loss,5996140.924,6.353859164,4
+251,Datapoint19,Large-scale Architecture Weakness,7244737.826,6.252964281,3
+252,Datapoint19,Major Product Flaw,4918284.328,6.179630254,4
+253,Datapoint19,Privacy Disclosure,8317019.612,6.430646389,3
+254,Datapoint19,Questionable Associations,7515996.642,6.40483534,2
+255,Datapoint19,Extortion (ransom),7330421.277,6.398182938,3
+256,Datapoint19,Resiliency Loss,8472555.319,6.40483534,2.4
+257,Datapoint19,Supply Chain Compromise,4459993.934,6.382577908,4
+258,Datapoint19,Trophy Penetration,4902006.16,4.822984792,2
+259,Datapoint19,Health/Safety Compromise,4715762.464,5.426412169,2
+260,Datapoint20,Compliance Failure,7072154.044,6.167162124,2.8
+261,Datapoint20,Insider Breach,6293938.384,6.167162124,2.8
+262,Datapoint20,IP Loss,8881504.584,5.952332863,3.6
+263,Datapoint20,Insightful Data Loss,8105929.609,6.176645161,3.6
+264,Datapoint20,Large-scale Architecture Weakness,4242798.203,5.099707013,3.6
+265,Datapoint20,Major Product Flaw,7569468.548,6.167162124,3.6
+266,Datapoint20,Privacy Disclosure,7953903.393,5.80705651,3.6
+267,Datapoint20,Questionable Associations,5287820.671,6.176645161,2.8
+268,Datapoint20,Extortion (ransom),7201233.055,6.167162124,3.6
+269,Datapoint20,Resiliency Loss,6793271.822,5.776402742,2.4
+270,Datapoint20,Supply Chain Compromise,6214897.596,5.341816734,3.6
+271,Datapoint20,Trophy Penetration,4489201.139,5.598805195,2.8
+272,Datapoint20,Health/Safety Compromise,3859611.208,5.13937415,2.8
+273,Datapoint21,Compliance Failure,5976277.569,6.430978355,3.2
+274,Datapoint21,Insider Breach,5610319.077,5.396588622,2.4
+275,Datapoint21,IP Loss,5414216.435,5.323816364,2
+276,Datapoint21,Insightful Data Loss,7390905.061,6.414800032,2.1
+277,Datapoint21,Large-scale Architecture Weakness,6107108.466,6.132675926,1.8
+278,Datapoint21,Major Product Flaw,6540253.83,6.425668874,2.8
+279,Datapoint21,Privacy Disclosure,5654523.027,5.841308381,2.4
+280,Datapoint21,Questionable Associations,4331073.382,5.614698258,2.4
+281,Datapoint21,Extortion (ransom),6099323.148,6.380946237,2.8
+282,Datapoint21,Resiliency Loss,5946120.767,6.393257925,3.2
+283,Datapoint21,Supply Chain Compromise,5998703.264,5.328592041,2.1
+284,Datapoint21,Trophy Penetration,5984445.319,5.979321165,2.8
+285,Datapoint21,Health/Safety Compromise,3270126.748,4.785709677,2.1
+286,Datapoint22,Compliance Failure,8044961.164,6.40409276,4
+287,Datapoint22,Insider Breach,8082059.813,6.40409276,4
+288,Datapoint22,IP Loss,7976747.336,6.36492781,4
+289,Datapoint22,Insightful Data Loss,5342960.175,5.597794802,3
+290,Datapoint22,Large-scale Architecture Weakness,4988084.902,6.200925201,4
+291,Datapoint22,Major Product Flaw,5805798.589,6.378860972,4
+292,Datapoint22,Privacy Disclosure,5454168.576,6.125002367,3.2
+293,Datapoint22,Questionable Associations,5608908.036,4.80306957,3
+294,Datapoint22,Extortion (ransom),5344443.169,6.125002367,3.2
+295,Datapoint22,Resiliency Loss,5258165.925,6.371898455,4
+296,Datapoint22,Supply Chain Compromise,5346178.483,4.621736272,3
+297,Datapoint22,Trophy Penetration,5417460.617,6.193407906,3.2
+298,Datapoint22,Health/Safety Compromise,7249933.024,6.40409276,4
+299,Datapoint23,Compliance Failure,3591381.614,4.161419501,2.8
+300,Datapoint23,Insider Breach,7179928.717,5.425076091,4
+301,Datapoint23,IP Loss,5936083.554,4.408158258,2.7
+302,Datapoint23,Insightful Data Loss,7702662.182,5.611133913,3.6
+303,Datapoint23,Large-scale Architecture Weakness,6593354.391,5.611133913,1.6
+304,Datapoint23,Major Product Flaw,6495856.249,4.359207089,2.8
+305,Datapoint23,Privacy Disclosure,7612039.636,5.133458374,3
+306,Datapoint23,Questionable Associations,7047660.14,4.59592434,2.7
+307,Datapoint23,Extortion (ransom),6958819.633,5.75552183,2.7
+308,Datapoint23,Resiliency Loss,6941002.814,5.288297981,3
+309,Datapoint23,Supply Chain Compromise,7149644.641,4.864627096,1.5
+310,Datapoint23,Trophy Penetration,4939478.148,4.487969768,3.6
+311,Datapoint23,Health/Safety Compromise,2933296.592,3.096311907,2.1
+312,Datapoint24,Compliance Failure,6366328.219,6.197994228,4
+313,Datapoint24,Insider Breach,6144255.755,6.436820513,4
+314,Datapoint24,IP Loss,6290373.198,6.165267421,4
+315,Datapoint24,Insightful Data Loss,6922238.606,5.561833424,3.2
+316,Datapoint24,Large-scale Architecture Weakness,5000340.778,5.235912647,3.2
+317,Datapoint24,Major Product Flaw,7219508.988,6.272871306,4
+318,Datapoint24,Privacy Disclosure,5452376.863,4.803070279,3
+319,Datapoint24,Questionable Associations,3998216.064,6.168207885,4
+320,Datapoint24,Extortion (ransom),5510274.369,6.168207885,4
+321,Datapoint24,Resiliency Loss,4635422.235,5.501384127,4
+322,Datapoint24,Supply Chain Compromise,4573409.239,6.004258679,4
+323,Datapoint24,Trophy Penetration,7143795.509,6.404093705,4
+324,Datapoint24,Health/Safety Compromise,6792474.097,6.436820513,4
+325,Datapoint25,Compliance Failure,4489328.075,3.870379383,2.1
+326,Datapoint25,Insider Breach,5759337.15,4.662756989,2.4
+327,Datapoint25,IP Loss,4644911.934,4.911807505,2.4
+328,Datapoint25,Insightful Data Loss,4379952.735,5.563224902,2.8
+329,Datapoint25,Large-scale Architecture Weakness,8086671.069,5.425429234,3.2
+330,Datapoint25,Major Product Flaw,4759364.838,5.385453763,2.4
+331,Datapoint25,Privacy Disclosure,7220718.972,5.637766251,2.8
+332,Datapoint25,Questionable Associations,7136168.06,5.199892797,2.4
+333,Datapoint25,Extortion (ransom),4163469.527,5.042185365,2.1
+334,Datapoint25,Resiliency Loss,3946132.271,5.363197691,2.8
+335,Datapoint25,Supply Chain Compromise,4266011.065,4.888293426,1.6
+336,Datapoint25,Trophy Penetration,5319543.446,5.385453763,2.4
+337,Datapoint25,Health/Safety Compromise,5062874.882,4.965306843,3.2
+338,Datapoint26,Compliance Failure,4167285.008,4.810276192,3
+339,Datapoint26,Insider Breach,4264318.553,5.688902289,2
+340,Datapoint26,IP Loss,7093056.638,6.411495859,4
+341,Datapoint26,Insightful Data Loss,5533584.428,5.688902289,3
+342,Datapoint26,Large-scale Architecture Weakness,5391146.238,5.674712251,3
+343,Datapoint26,Major Product Flaw,6360437.126,6.419439291,4
+344,Datapoint26,Privacy Disclosure,3327727.149,5.230118499,2.4
+345,Datapoint26,Questionable Associations,3674619.168,5.674478293,4
+346,Datapoint26,Extortion (ransom),4214251.54,4.011135952,2
+347,Datapoint26,Resiliency Loss,4464372.212,4.513933988,3
+348,Datapoint26,Supply Chain Compromise,6597548.505,6.41370159,4
+349,Datapoint26,Trophy Penetration,4617321.503,5.674478293,4
+350,Datapoint26,Health/Safety Compromise,5856710.598,5.602166745,2
+351,Datapoint27,Compliance Failure,5644894.916,5.54469695,3.6
+352,Datapoint27,Insider Breach,6616442.091,5.148417748,2.8
+353,Datapoint27,IP Loss,5221227.557,5.699902848,3.6
+354,Datapoint27,Insightful Data Loss,6156634.362,5.271411814,2.8
+355,Datapoint27,Large-scale Architecture Weakness,8359432.746,5.70070638,2.8
+356,Datapoint27,Major Product Flaw,5072966.058,4.574685415,2.1
+357,Datapoint27,Privacy Disclosure,4909044.068,5.687710909,2.8
+358,Datapoint27,Questionable Associations,5574728.016,5.70070638,2.4
+359,Datapoint27,Extortion (ransom),6453229.448,5.575119746,3.6
+360,Datapoint27,Resiliency Loss,5648355.769,4.96784877,3.6
+361,Datapoint27,Supply Chain Compromise,6567558.85,5.577372382,2.8
+362,Datapoint27,Trophy Penetration,6042724.973,5.687710909,2.7
+363,Datapoint27,Health/Safety Compromise,5019314.457,5.271411814,2.8
+364,Datapoint28,Compliance Failure,4907198.358,4.73925048,2.7
+365,Datapoint28,Insider Breach,7086892.941,6.242659419,2
+366,Datapoint28,IP Loss,5217347.196,5.650182317,3.6
+367,Datapoint28,Insightful Data Loss,5285313.665,6.40068429,2
+368,Datapoint28,Large-scale Architecture Weakness,4202772.802,4.005737786,1.8
+369,Datapoint28,Major Product Flaw,5641678.386,4.681994565,2.7
+370,Datapoint28,Privacy Disclosure,5822116.69,4.728721311,3.6
+371,Datapoint28,Questionable Associations,5761235.944,5.445435287,2.7
+372,Datapoint28,Extortion (ransom),4819034.124,5.195861028,1.6
+373,Datapoint28,Resiliency Loss,4566370.789,4.715833653,2.8
+374,Datapoint28,Supply Chain Compromise,6000012.789,5.101684953,1.8
+375,Datapoint28,Trophy Penetration,5072546.779,6.239394485,2.1
+376,Datapoint28,Health/Safety Compromise,6179679.252,5.184109749,2.1
+377,Datapoint29,Compliance Failure,4667168.957,5.342583513,4
+378,Datapoint29,Insider Breach,4387534.536,4.646388249,3
+379,Datapoint29,IP Loss,5699956.554,5.383500867,3.6
+380,Datapoint29,Insightful Data Loss,7300752.839,5.455331296,2.7
+381,Datapoint29,Large-scale Architecture Weakness,6878385.692,5.804764936,3.6
+382,Datapoint29,Major Product Flaw,7069373.296,5.078317723,3.6
+383,Datapoint29,Privacy Disclosure,6585762.806,5.804764936,3.6
+384,Datapoint29,Questionable Associations,3646605.241,3.791174024,2.7
+385,Datapoint29,Extortion (ransom),5375540.539,5.205402597,3.6
+386,Datapoint29,Resiliency Loss,6083320.277,5.245750587,3.6
+387,Datapoint29,Supply Chain Compromise,5900522.958,5.997190249,3.6
+388,Datapoint29,Trophy Penetration,5578553.987,5.997190249,3.6
+389,Datapoint29,Health/Safety Compromise,7008149.521,5.540499147,3.6
+390,Datapoint30,Compliance Failure,6527527.003,6.406072724,2.1
+391,Datapoint30,Insider Breach,6219058.178,5.54077151,2.8
+392,Datapoint30,IP Loss,7911621.365,6.159716975,2.8
+393,Datapoint30,Insightful Data Loss,9191075.565,6.405622816,2.8
+394,Datapoint30,Large-scale Architecture Weakness,4367912.77,4.605554872,2.1
+395,Datapoint30,Major Product Flaw,6593412.672,6.407072424,2.8
+396,Datapoint30,Privacy Disclosure,6560614.743,6.141189737,2.1
+397,Datapoint30,Questionable Associations,8887364.632,6.406072724,2.1
+398,Datapoint30,Extortion (ransom),6439011.212,6.079336924,2.1
+399,Datapoint30,Resiliency Loss,5156217.761,6.079336924,2
+400,Datapoint30,Supply Chain Compromise,7668236.905,5.822658379,2.8
+401,Datapoint30,Trophy Penetration,4367639.894,5.525999181,2
+402,Datapoint30,Health/Safety Compromise,6021372.487,5.412623524,2.1
+403,Datapoint31,Compliance Failure,6350802.587,5.371485605,3.2
+404,Datapoint31,Insider Breach,5684462.566,4.74377654,2.7
+405,Datapoint31,IP Loss,4258239.911,6.007486872,3.2
+406,Datapoint31,Insightful Data Loss,4680217.661,4.200179487,2.4
+407,Datapoint31,Large-scale Architecture Weakness,4741287.752,5.506314742,2.1
+408,Datapoint31,Major Product Flaw,5897199.956,5.924002618,3.2
+409,Datapoint31,Privacy Disclosure,5933634.882,6.40851964,3.2
+410,Datapoint31,Questionable Associations,3927535.718,5.380801622,3.2
+411,Datapoint31,Extortion (ransom),6441557.521,4.963113745,3.2
+412,Datapoint31,Resiliency Loss,7106345.229,6.40851964,3.2
+413,Datapoint31,Supply Chain Compromise,8346307.147,6.40851964,3.2
+414,Datapoint31,Trophy Penetration,5864731.51,5.924002618,3.6
+415,Datapoint31,Health/Safety Compromise,6029034.747,6.325035387,3.2
+416,Datapoint32,Compliance Failure,6141487.078,5.717427032,2.1
+417,Datapoint32,Insider Breach,4394610.179,5.142205829,3.2
+418,Datapoint32,IP Loss,5303490.145,5.484250654,2.1
+419,Datapoint32,Insightful Data Loss,5855238.15,5.130344525,2.4
+420,Datapoint32,Large-scale Architecture Weakness,4907554.314,5.934652915,2.1
+421,Datapoint32,Major Product Flaw,6113298.91,5.142205829,3.2
+422,Datapoint32,Privacy Disclosure,8057310.606,6.397659866,2.8
+423,Datapoint32,Questionable Associations,6772662.718,6.442327932,2.8
+424,Datapoint32,Extortion (ransom),6359090.707,6.408182787,2.8
+425,Datapoint32,Resiliency Loss,5909476.49,5.609770007,2.8
+426,Datapoint32,Supply Chain Compromise,6883594.864,5.608094372,2.4
+427,Datapoint32,Trophy Penetration,6360025.55,6.4160436,2.8
+428,Datapoint32,Health/Safety Compromise,8018492.233,6.195254953,3.2
+429,Datapoint33,Compliance Failure,6765771.776,5.858359447,2
+430,Datapoint33,Insider Breach,4663269.399,4.632045134,1.2
+431,Datapoint33,IP Loss,6189267.578,5.612645161,1.8
+432,Datapoint33,Insightful Data Loss,4517276.453,6.177128427,2
+433,Datapoint33,Large-scale Architecture Weakness,6048346.628,6.404268348,2.4
+434,Datapoint33,Major Product Flaw,5103689.01,6.421774464,2
+435,Datapoint33,Privacy Disclosure,5463094.565,5.041356962,1.6
+436,Datapoint33,Questionable Associations,5793251.43,5.36728727,2.4
+437,Datapoint33,Extortion (ransom),5548039.398,5.824532557,2.4
+438,Datapoint33,Resiliency Loss,6739093.212,6.189350649,2.4
+439,Datapoint33,Supply Chain Compromise,6931329.931,6.435064935,2.4
+440,Datapoint33,Trophy Penetration,4152588.745,5.522634956,2
+441,Datapoint33,Health/Safety Compromise,5876687.234,5.485735497,1.8
+442,Datapoint34,Compliance Failure,7512449.5,6.273719637,3.2
+443,Datapoint34,Insider Breach,8695549.446,6.126416388,3.6
+444,Datapoint34,IP Loss,7321242.11,5.912659237,2.4
+445,Datapoint34,Insightful Data Loss,5742560.892,5.910818156,3.6
+446,Datapoint34,Large-scale Architecture Weakness,7113949.785,6.267524846,3.2
+447,Datapoint34,Major Product Flaw,4470113.895,5.638418517,2.7
+448,Datapoint34,Privacy Disclosure,3315683.79,3.750849023,1.8
+449,Datapoint34,Questionable Associations,5110652.641,5.481477558,2.4
+450,Datapoint34,Extortion (ransom),7286697.766,6.126416388,3.6
+451,Datapoint34,Resiliency Loss,5225943.501,6.440041894,3.2
+452,Datapoint34,Supply Chain Compromise,6517681.254,5.116488738,2.7
+453,Datapoint34,Trophy Penetration,7761422.779,6.13261118,3.6
+454,Datapoint34,Health/Safety Compromise,3960188.551,6.078981494,2.4
+455,Datapoint35,Compliance Failure,3374338.504,5.90779798,3.6
+456,Datapoint35,Insider Breach,3561279.503,3.700147046,2.7
+457,Datapoint35,IP Loss,6030451.953,5.895703244,3.6
+458,Datapoint35,Insightful Data Loss,6160211.759,5.308348916,1.8
+459,Datapoint35,Large-scale Architecture Weakness,8056712.533,5.88614219,3.6
+460,Datapoint35,Major Product Flaw,7287424.021,6.155119941,3.6
+461,Datapoint35,Privacy Disclosure,8833076.803,5.928044668,3.6
+462,Datapoint35,Questionable Associations,6331920.313,5.928044668,3.6
+463,Datapoint35,Extortion (ransom),7381074.591,5.337961943,3.6
+464,Datapoint35,Resiliency Loss,7784909.631,5.89918148,3.2
+465,Datapoint35,Supply Chain Compromise,6743627.154,5.321193491,2.7
+466,Datapoint35,Trophy Penetration,6073550.233,5.889620425,2.7
+467,Datapoint35,Health/Safety Compromise,6967582.218,5.876775851,2.7
+468,Datapoint36,Compliance Failure,5310274.325,6.235125975,2.8
+469,Datapoint36,Insider Breach,6580915.616,6.38183258,2.4
+470,Datapoint36,IP Loss,7350705.215,6.370664317,3.6
+471,Datapoint36,Insightful Data Loss,4822028.758,4.001940502,2.7
+472,Datapoint36,Large-scale Architecture Weakness,7672900.101,6.379286806,3.6
+473,Datapoint36,Major Product Flaw,7803040.547,6.223957713,3.6
+474,Datapoint36,Privacy Disclosure,4376409.666,5.870540672,1.8
+475,Datapoint36,Questionable Associations,6558683.44,5.268283618,2.1
+476,Datapoint36,Extortion (ransom),5133468.869,4.777998238,2.7
+477,Datapoint36,Resiliency Loss,7726364.762,5.879163161,2.8
+478,Datapoint36,Supply Chain Compromise,5193122.891,4.902457954,1.8
+479,Datapoint36,Trophy Penetration,4866621.634,5.723834068,2.8
+480,Datapoint36,Health/Safety Compromise,5546057.134,4.777998238,2.7
+481,Datapoint37,Compliance Failure,6803653.19,6.087618777,4
+482,Datapoint37,Insider Breach,3326536.958,4.336748299,3
+483,Datapoint37,IP Loss,6173251.639,5.608694274,4
+484,Datapoint37,Insightful Data Loss,5574296.648,5.791817445,3
+485,Datapoint37,Large-scale Architecture Weakness,6123743.611,6.104953944,2.8
+486,Datapoint37,Major Product Flaw,7426750.235,6.082914277,4
+487,Datapoint37,Privacy Disclosure,6378304.074,6.087618777,4
+488,Datapoint37,Questionable Associations,5136215.421,5.268870295,3
+489,Datapoint37,Extortion (ransom),4196207.844,5.791817445,3.6
+490,Datapoint37,Resiliency Loss,5473068.088,5.371107021,3
+491,Datapoint37,Supply Chain Compromise,4385160.296,4.572828867,2.1
+492,Datapoint37,Trophy Penetration,8982994.215,6.388201988,4
+493,Datapoint37,Health/Safety Compromise,5441422.177,4.891106461,4
+494,Datapoint38,Compliance Failure,6796246.317,6.174379952,4
+495,Datapoint38,Insider Breach,4670620.889,6.180681008,3.6
+496,Datapoint38,IP Loss,3932760.763,5.51298179,2.7
+497,Datapoint38,Insightful Data Loss,6144475.875,6.421958946,3.6
+498,Datapoint38,Large-scale Architecture Weakness,6955635.864,6.17647029,4
+499,Datapoint38,Major Product Flaw,6086056.014,6.17647029,4
+500,Datapoint38,Privacy Disclosure,6506587.288,6.424049284,2.4
+501,Datapoint38,Questionable Associations,5717973.505,5.610538462,3.2
+502,Datapoint38,Extortion (ransom),4489612.886,6.054821592,3.6
+503,Datapoint38,Resiliency Loss,5624114.663,6.197442651,4
+504,Datapoint38,Supply Chain Compromise,6533626.278,6.413538462,3.6
+505,Datapoint38,Trophy Penetration,5434325.661,6.276472113,3.2
+506,Datapoint38,Health/Safety Compromise,4851982.856,6.054821592,3
+507,Datapoint39,Compliance Failure,7176529.937,6.161845228,3.6
+508,Datapoint39,Insider Breach,5831255.271,5.583221376,2.8
+509,Datapoint39,IP Loss,4905400.672,6.270557823,3.6
+510,Datapoint39,Insightful Data Loss,3805470.674,4.40161039,2.7
+511,Datapoint39,Large-scale Architecture Weakness,4776380.988,5.975571804,3.6
+512,Datapoint39,Major Product Flaw,3480491.771,4.330813853,1.8
+513,Datapoint39,Privacy Disclosure,5600587.8,4.873155179,1.6
+514,Datapoint39,Questionable Associations,5147622.05,5.09503182,2.1
+515,Datapoint39,Extortion (ransom),6538135.969,5.878573477,3.6
+516,Datapoint39,Resiliency Loss,5654954.677,5.095397902,1.8
+517,Datapoint39,Supply Chain Compromise,4936889.974,4.68312414,2.4
+518,Datapoint39,Trophy Penetration,6731791.312,6.280403051,3.6
+519,Datapoint39,Health/Safety Compromise,5633321.555,5.289168213,3.6
+520,Datapoint40,Compliance Failure,5887465.042,4.888039184,2.7
+521,Datapoint40,Insider Breach,5300524.682,5.498219336,3.6
+522,Datapoint40,IP Loss,7912012.927,5.873341101,3.6
+523,Datapoint40,Insightful Data Loss,5372639.313,4.840376036,2
+524,Datapoint40,Large-scale Architecture Weakness,6477606.204,5.499518351,4
+525,Datapoint40,Major Product Flaw,7379233.666,5.770978359,3
+526,Datapoint40,Privacy Disclosure,6946301.717,5.704806231,2.7
+527,Datapoint40,Questionable Associations,6874311.257,5.597251679,3.6
+528,Datapoint40,Extortion (ransom),6846377.077,5.57390813,2.4
+529,Datapoint40,Resiliency Loss,7204087.846,5.676270872,3.6
+530,Datapoint40,Supply Chain Compromise,4142172.529,5.158657383,3
+531,Datapoint40,Trophy Penetration,5897191.248,4.840376036,3
+532,Datapoint40,Health/Safety Compromise,6892719.616,5.280364672,3.6
+533,Datapoint41,Compliance Failure,5570742.864,4.876273332,3.2
+534,Datapoint41,Insider Breach,5786821.899,4.252411084,3.2
+535,Datapoint41,IP Loss,7385683.01,5.712587947,2.7
+536,Datapoint41,Insightful Data Loss,6087735.038,5.686085002,3.6
+537,Datapoint41,Large-scale Architecture Weakness,4069660.374,4.664240542,2.7
+538,Datapoint41,Major Product Flaw,6425377.457,4.982329122,3.2
+539,Datapoint41,Privacy Disclosure,5918924.644,4.991124368,2.7
+540,Datapoint41,Questionable Associations,6966765.178,4.950509492,3.6
+541,Datapoint41,Extortion (ransom),6265094.772,5.053827264,2.7
+542,Datapoint41,Resiliency Loss,8122437.675,5.783745302,2.7
+543,Datapoint41,Supply Chain Compromise,4819906.128,5.417571209,3.2
+544,Datapoint41,Trophy Penetration,6818501.992,5.144787126,3.6
+545,Datapoint41,Health/Safety Compromise,4887936.398,4.761948299,3.6
+546,Datapoint42,Compliance Failure,6218258.842,5.246384644,3
+547,Datapoint42,Insider Breach,4087897.365,5.955776953,4
+548,Datapoint42,IP Loss,8077709.67,6.423612536,4
+549,Datapoint42,Insightful Data Loss,5956454.09,6.091722889,4
+550,Datapoint42,Large-scale Architecture Weakness,7376694.72,6.224868145,4
+551,Datapoint42,Major Product Flaw,6219405.322,5.955776953,4
+552,Datapoint42,Privacy Disclosure,6538504.254,6.387784946,4
+553,Datapoint42,Questionable Associations,7139249.784,6.15311828,3.2
+554,Datapoint42,Extortion (ransom),7564853.718,6.415291993,4
+555,Datapoint42,Resiliency Loss,5749062.507,6.396754643,4
+556,Datapoint42,Supply Chain Compromise,5352781.764,5.623042735,2.8
+557,Datapoint42,Trophy Penetration,6861891.593,6.208,3.2
+558,Datapoint42,Health/Safety Compromise,4708770.496,5.559827672,3
+559,Datapoint43,Compliance Failure,6402630.684,6.005162117,2.8
+560,Datapoint43,Insider Breach,6120709.493,6.005162117,2
+561,Datapoint43,IP Loss,5424405.405,6.167586461,2.1
+562,Datapoint43,Insightful Data Loss,6393344.143,6.167586461,2.1
+563,Datapoint43,Large-scale Architecture Weakness,6691876.396,6.026147795,3.6
+564,Datapoint43,Major Product Flaw,5400348.069,6.388688172,1.8
+565,Datapoint43,Privacy Disclosure,3570662.1,5.146416356,1.6
+566,Datapoint43,Questionable Associations,5019604.653,6.167586461,2.8
+567,Datapoint43,Extortion (ransom),7017904.984,5.409800386,2.7
+568,Datapoint43,Resiliency Loss,4455982.402,5.1992926,2.8
+569,Datapoint43,Supply Chain Compromise,5411233.78,6.167586461,2.7
+570,Datapoint43,Trophy Penetration,5130266.794,5.452338899,2.8
+571,Datapoint43,Health/Safety Compromise,6416661.408,5.679924639,2.7
+572,Datapoint44,Compliance Failure,7314150.199,6.427889046,3.2
+573,Datapoint44,Insider Breach,6863654.665,6.404987631,3.6
+574,Datapoint44,IP Loss,6193035.941,5.609334962,2.8
+575,Datapoint44,Insightful Data Loss,4108583.135,6.38096065,3.2
+576,Datapoint44,Large-scale Architecture Weakness,4513342.846,5.627256236,3.2
+577,Datapoint44,Major Product Flaw,5472651.686,6.408478615,3.2
+578,Datapoint44,Privacy Disclosure,5894010.358,6.412039156,3.6
+579,Datapoint44,Questionable Associations,6192073.835,6.367875269,2.4
+580,Datapoint44,Extortion (ransom),6272351.904,6.400371081,3.2
+581,Datapoint44,Resiliency Loss,5518342.797,6.4121071,3.6
+582,Datapoint44,Supply Chain Compromise,6426724.432,6.418073013,3.6
+583,Datapoint44,Trophy Penetration,7201094.151,6.4121071,3.6
+584,Datapoint44,Health/Safety Compromise,3181713.368,5.576626493,1.6
+585,Datapoint45,Compliance Failure,6845668.307,5.604452823,4
+586,Datapoint45,Insider Breach,5472013.447,6.4,2
+587,Datapoint45,IP Loss,7017275.589,6.407692308,2.8
+588,Datapoint45,Insightful Data Loss,5269741.76,5.979953082,3.2
+589,Datapoint45,Large-scale Architecture Weakness,5802103.39,5.595404547,3
+590,Datapoint45,Major Product Flaw,4147532.495,5.327370971,3.2
+591,Datapoint45,Privacy Disclosure,5903367.249,6.397327624,3
+592,Datapoint45,Questionable Associations,8155994.286,6.4063759,4
+593,Datapoint45,Extortion (ransom),7431981.411,6.389635317,3
+594,Datapoint45,Resiliency Loss,5010337.411,6.396,3.2
+595,Datapoint45,Supply Chain Compromise,5650441.597,6.4063759,4
+596,Datapoint45,Trophy Penetration,5711274.767,5.597,2
+597,Datapoint45,Health/Safety Compromise,5089729.54,6.385635317,3
+598,Datapoint46,Compliance Failure,5629576.108,5.78446048,3.6
+599,Datapoint46,Insider Breach,6433673.849,6.015936069,3
+600,Datapoint46,IP Loss,8268240.363,6.412864332,4
+601,Datapoint46,Insightful Data Loss,5453915.157,4.467974917,3
+602,Datapoint46,Large-scale Architecture Weakness,5545644.222,5.906082414,3.6
+603,Datapoint46,Major Product Flaw,4992580.957,4.534904917,3
+604,Datapoint46,Privacy Disclosure,7434545.655,5.994331271,3
+605,Datapoint46,Questionable Associations,6963805.177,6.21981362,3
+606,Datapoint46,Extortion (ransom),7751378.525,5.649611626,3
+607,Datapoint46,Resiliency Loss,7182728.089,6.129180124,3.6
+608,Datapoint46,Supply Chain Compromise,6194380.025,5.853489177,2.4
+609,Datapoint46,Trophy Penetration,8146027.699,5.987346888,3
+610,Datapoint46,Health/Safety Compromise,7637150.479,6.099133126,4
+611,Datapoint47,Compliance Failure,4834329.607,4.559051228,2.7
+612,Datapoint47,Insider Breach,4100327.814,4.868751515,2.1
+613,Datapoint47,IP Loss,4995398.268,4.787137521,2.7
+614,Datapoint47,Insightful Data Loss,6179177.009,5.954934626,3.6
+615,Datapoint47,Large-scale Architecture Weakness,5431827.31,5.942828301,1.8
+616,Datapoint47,Major Product Flaw,7898910.488,5.74441943,3.6
+617,Datapoint47,Privacy Disclosure,6404414.281,5.954934626,3.6
+618,Datapoint47,Questionable Associations,6421752.288,5.710828501,3.6
+619,Datapoint47,Extortion (ransom),4270052.371,5.012347009,1.8
+620,Datapoint47,Resiliency Loss,4099117.775,5.108328146,1.8
+621,Datapoint47,Supply Chain Compromise,5445681.05,5.150998819,2.7
+622,Datapoint47,Trophy Penetration,7338322.772,6.07873497,3.6
+623,Datapoint47,Health/Safety Compromise,5675566.877,5.702405232,2.8
+624,Datapoint48,Compliance Failure,7446352.627,5.738894864,2.8
+625,Datapoint48,Insider Breach,5279574.782,5.467877851,2.8
+626,Datapoint48,IP Loss,6217618.327,5.713324774,2.7
+627,Datapoint48,Insightful Data Loss,5660993.907,5.744451712,3.6
+628,Datapoint48,Large-scale Architecture Weakness,6720904.177,6.227507575,3.6
+629,Datapoint48,Major Product Flaw,5375667.014,4.382974324,2.7
+630,Datapoint48,Privacy Disclosure,4751107.492,4.820892027,2.8
+631,Datapoint48,Questionable Associations,6428862.188,4.790467019,2.7
+632,Datapoint48,Extortion (ransom),6516802.855,5.547986143,2.8
+633,Datapoint48,Resiliency Loss,7370611.051,6.196380638,2.8
+634,Datapoint48,Supply Chain Compromise,5604299.922,4.669162658,2.7
+635,Datapoint48,Trophy Penetration,6856581.648,6.22555021,3.6
+636,Datapoint48,Health/Safety Compromise,6078516.032,5.965554886,2.1
+637,Datapoint49,Compliance Failure,5824300.055,5.781740573,2.7
+638,Datapoint49,Insider Breach,4775705.323,5.44706071,2.7
+639,Datapoint49,IP Loss,8791384.403,6.414177399,4
+640,Datapoint49,Insightful Data Loss,6707812.006,5.497050776,3
+641,Datapoint49,Large-scale Architecture Weakness,5313259.968,6.093093785,1.8
+642,Datapoint49,Major Product Flaw,6408633.728,5.453277507,3
+643,Datapoint49,Privacy Disclosure,7340676.022,6.235548263,4
+644,Datapoint49,Questionable Associations,5852553.945,5.317751456,2
+645,Datapoint49,Extortion (ransom),6656901.408,6.086876987,1.2
+646,Datapoint49,Resiliency Loss,6536695.174,6.375526882,2
+647,Datapoint49,Supply Chain Compromise,5355224.04,6.038506764,2
+648,Datapoint49,Trophy Penetration,5604398.471,5.371471372,1.8
+649,Datapoint49,Health/Safety Compromise,5605553.875,6.241765061,4
